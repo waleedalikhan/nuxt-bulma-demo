@@ -1,4 +1,4 @@
-# rblx-spa
+# Nuxt-Bulma demo
 
 ## Build Setup
 
